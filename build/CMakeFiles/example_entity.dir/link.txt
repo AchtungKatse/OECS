@@ -1,0 +1,1 @@
+/usr/bin/cc -ggdb -Wl,--dependency-file=CMakeFiles/example_entity.dir/link.d CMakeFiles/example_entity.dir/examples/entities.c.o -o example_entity  -Wl,-rpath,/home/default/Projects/OECS/build libOECS.so

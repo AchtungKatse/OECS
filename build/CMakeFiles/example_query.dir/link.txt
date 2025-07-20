@@ -1,0 +1,1 @@
+/usr/bin/cc -ggdb -Wl,--dependency-file=CMakeFiles/example_query.dir/link.d CMakeFiles/example_query.dir/examples/query.c.o -o example_query  -Wl,-rpath,/home/default/Projects/OECS/build libOECS.so

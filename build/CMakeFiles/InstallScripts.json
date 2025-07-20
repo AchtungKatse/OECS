@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/default/Projects/OECS/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

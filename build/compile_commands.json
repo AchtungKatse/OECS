@@ -1,0 +1,140 @@
+[
+{
+  "directory": "/home/default/Projects/OECS/build",
+  "command": "/usr/bin/cc -DOECS_EXPORTS -I/home/default/Projects/OECS/include -ggdb -fPIC -Winvalid-pch -x c-header -include /home/default/Projects/OECS/build/CMakeFiles/OECS.dir/cmake_pch.h -o CMakeFiles/OECS.dir/cmake_pch.h.gch -c /home/default/Projects/OECS/build/CMakeFiles/OECS.dir/cmake_pch.h.c",
+  "file": "/home/default/Projects/OECS/build/CMakeFiles/OECS.dir/cmake_pch.h.c",
+  "output": "CMakeFiles/OECS.dir/cmake_pch.h.gch"
+},
+{
+  "directory": "/home/default/Projects/OECS/build",
+  "command": "/usr/bin/cc -DOECS_EXPORTS -I/home/default/Projects/OECS/include -ggdb -fPIC -Winvalid-pch -include /home/default/Projects/OECS/build/CMakeFiles/OECS.dir/cmake_pch.h -o CMakeFiles/OECS.dir/src/containers/darray_ints.c.o -c /home/default/Projects/OECS/src/containers/darray_ints.c",
+  "file": "/home/default/Projects/OECS/src/containers/darray_ints.c",
+  "output": "CMakeFiles/OECS.dir/src/containers/darray_ints.c.o"
+},
+{
+  "directory": "/home/default/Projects/OECS/build",
+  "command": "/usr/bin/cc -DOECS_EXPORTS -I/home/default/Projects/OECS/include -ggdb -fPIC -Winvalid-pch -include /home/default/Projects/OECS/build/CMakeFiles/OECS.dir/cmake_pch.h -o CMakeFiles/OECS.dir/src/containers/set_u64.c.o -c /home/default/Projects/OECS/src/containers/set_u64.c",
+  "file": "/home/default/Projects/OECS/src/containers/set_u64.c",
+  "output": "CMakeFiles/OECS.dir/src/containers/set_u64.c.o"
+},
+{
+  "directory": "/home/default/Projects/OECS/build",
+  "command": "/usr/bin/cc -DOECS_EXPORTS -I/home/default/Projects/OECS/include -ggdb -fPIC -Winvalid-pch -include /home/default/Projects/OECS/build/CMakeFiles/OECS.dir/cmake_pch.h -o CMakeFiles/OECS.dir/src/core/filesystem.c.o -c /home/default/Projects/OECS/src/core/filesystem.c",
+  "file": "/home/default/Projects/OECS/src/core/filesystem.c",
+  "output": "CMakeFiles/OECS.dir/src/core/filesystem.c.o"
+},
+{
+  "directory": "/home/default/Projects/OECS/build",
+  "command": "/usr/bin/cc -DOECS_EXPORTS -I/home/default/Projects/OECS/include -ggdb -fPIC -Winvalid-pch -include /home/default/Projects/OECS/build/CMakeFiles/OECS.dir/cmake_pch.h -o CMakeFiles/OECS.dir/src/core/logging.c.o -c /home/default/Projects/OECS/src/core/logging.c",
+  "file": "/home/default/Projects/OECS/src/core/logging.c",
+  "output": "CMakeFiles/OECS.dir/src/core/logging.c.o"
+},
+{
+  "directory": "/home/default/Projects/OECS/build",
+  "command": "/usr/bin/cc -DOECS_EXPORTS -I/home/default/Projects/OECS/include -ggdb -fPIC -Winvalid-pch -include /home/default/Projects/OECS/build/CMakeFiles/OECS.dir/cmake_pch.h -o CMakeFiles/OECS.dir/src/core/smemory.c.o -c /home/default/Projects/OECS/src/core/smemory.c",
+  "file": "/home/default/Projects/OECS/src/core/smemory.c",
+  "output": "CMakeFiles/OECS.dir/src/core/smemory.c.o"
+},
+{
+  "directory": "/home/default/Projects/OECS/build",
+  "command": "/usr/bin/cc -DOECS_EXPORTS -I/home/default/Projects/OECS/include -ggdb -fPIC -Winvalid-pch -include /home/default/Projects/OECS/build/CMakeFiles/OECS.dir/cmake_pch.h -o CMakeFiles/OECS.dir/src/core/sstring.c.o -c /home/default/Projects/OECS/src/core/sstring.c",
+  "file": "/home/default/Projects/OECS/src/core/sstring.c",
+  "output": "CMakeFiles/OECS.dir/src/core/sstring.c.o"
+},
+{
+  "directory": "/home/default/Projects/OECS/build",
+  "command": "/usr/bin/cc -DOECS_EXPORTS -I/home/default/Projects/OECS/include -ggdb -fPIC -Winvalid-pch -include /home/default/Projects/OECS/build/CMakeFiles/OECS.dir/cmake_pch.h -o CMakeFiles/OECS.dir/src/ecs/ecs.c.o -c /home/default/Projects/OECS/src/ecs/ecs.c",
+  "file": "/home/default/Projects/OECS/src/ecs/ecs.c",
+  "output": "CMakeFiles/OECS.dir/src/ecs/ecs.c.o"
+},
+{
+  "directory": "/home/default/Projects/OECS/build",
+  "command": "/usr/bin/cc -DOECS_EXPORTS -I/home/default/Projects/OECS/include -ggdb -fPIC -Winvalid-pch -include /home/default/Projects/OECS/build/CMakeFiles/OECS.dir/cmake_pch.h -o CMakeFiles/OECS.dir/src/ecs/ecs_column.c.o -c /home/default/Projects/OECS/src/ecs/ecs_column.c",
+  "file": "/home/default/Projects/OECS/src/ecs/ecs_column.c",
+  "output": "CMakeFiles/OECS.dir/src/ecs/ecs_column.c.o"
+},
+{
+  "directory": "/home/default/Projects/OECS/build",
+  "command": "/usr/bin/cc -DOECS_EXPORTS -I/home/default/Projects/OECS/include -ggdb -fPIC -Winvalid-pch -include /home/default/Projects/OECS/build/CMakeFiles/OECS.dir/cmake_pch.h -o CMakeFiles/OECS.dir/src/ecs/ecs_containers.c.o -c /home/default/Projects/OECS/src/ecs/ecs_containers.c",
+  "file": "/home/default/Projects/OECS/src/ecs/ecs_containers.c",
+  "output": "CMakeFiles/OECS.dir/src/ecs/ecs_containers.c.o"
+},
+{
+  "directory": "/home/default/Projects/OECS/build",
+  "command": "/usr/bin/cc -DOECS_EXPORTS -I/home/default/Projects/OECS/include -ggdb -fPIC -Winvalid-pch -include /home/default/Projects/OECS/build/CMakeFiles/OECS.dir/cmake_pch.h -o CMakeFiles/OECS.dir/src/ecs/ecs_iterator.c.o -c /home/default/Projects/OECS/src/ecs/ecs_iterator.c",
+  "file": "/home/default/Projects/OECS/src/ecs/ecs_iterator.c",
+  "output": "CMakeFiles/OECS.dir/src/ecs/ecs_iterator.c.o"
+},
+{
+  "directory": "/home/default/Projects/OECS/build",
+  "command": "/usr/bin/cc -DOECS_EXPORTS -I/home/default/Projects/OECS/include -ggdb -fPIC -Winvalid-pch -include /home/default/Projects/OECS/build/CMakeFiles/OECS.dir/cmake_pch.h -o CMakeFiles/OECS.dir/src/ecs/ecs_query.c.o -c /home/default/Projects/OECS/src/ecs/ecs_query.c",
+  "file": "/home/default/Projects/OECS/src/ecs/ecs_query.c",
+  "output": "CMakeFiles/OECS.dir/src/ecs/ecs_query.c.o"
+},
+{
+  "directory": "/home/default/Projects/OECS/build",
+  "command": "/usr/bin/cc -DOECS_EXPORTS -I/home/default/Projects/OECS/include -ggdb -fPIC -Winvalid-pch -include /home/default/Projects/OECS/build/CMakeFiles/OECS.dir/cmake_pch.h -o CMakeFiles/OECS.dir/src/ecs/ecs_system.c.o -c /home/default/Projects/OECS/src/ecs/ecs_system.c",
+  "file": "/home/default/Projects/OECS/src/ecs/ecs_system.c",
+  "output": "CMakeFiles/OECS.dir/src/ecs/ecs_system.c.o"
+},
+{
+  "directory": "/home/default/Projects/OECS/build",
+  "command": "/usr/bin/cc -DOECS_EXPORTS -I/home/default/Projects/OECS/include -ggdb -fPIC -Winvalid-pch -include /home/default/Projects/OECS/build/CMakeFiles/OECS.dir/cmake_pch.h -o CMakeFiles/OECS.dir/src/ecs/ecs_world.c.o -c /home/default/Projects/OECS/src/ecs/ecs_world.c",
+  "file": "/home/default/Projects/OECS/src/ecs/ecs_world.c",
+  "output": "CMakeFiles/OECS.dir/src/ecs/ecs_world.c.o"
+},
+{
+  "directory": "/home/default/Projects/OECS/build",
+  "command": "/usr/bin/cc -DOECS_EXPORTS -I/home/default/Projects/OECS/include -ggdb -fPIC -Winvalid-pch -include /home/default/Projects/OECS/build/CMakeFiles/OECS.dir/cmake_pch.h -o CMakeFiles/OECS.dir/src/ecs/entity.c.o -c /home/default/Projects/OECS/src/ecs/entity.c",
+  "file": "/home/default/Projects/OECS/src/ecs/entity.c",
+  "output": "CMakeFiles/OECS.dir/src/ecs/entity.c.o"
+},
+{
+  "directory": "/home/default/Projects/OECS/build",
+  "command": "/usr/bin/cc -DOECS_EXPORTS -I/home/default/Projects/OECS/include -ggdb -fPIC -Winvalid-pch -include /home/default/Projects/OECS/build/CMakeFiles/OECS.dir/cmake_pch.h -o CMakeFiles/OECS.dir/src/ecs/entity_archetype.c.o -c /home/default/Projects/OECS/src/ecs/entity_archetype.c",
+  "file": "/home/default/Projects/OECS/src/ecs/entity_archetype.c",
+  "output": "CMakeFiles/OECS.dir/src/ecs/entity_archetype.c.o"
+},
+{
+  "directory": "/home/default/Projects/OECS/build",
+  "command": "/usr/bin/cc -DOECS_EXPORTS -I/home/default/Projects/OECS/include -ggdb -fPIC -Winvalid-pch -include /home/default/Projects/OECS/build/CMakeFiles/OECS.dir/cmake_pch.h -o CMakeFiles/OECS.dir/src/memory/block_allocator.c.o -c /home/default/Projects/OECS/src/memory/block_allocator.c",
+  "file": "/home/default/Projects/OECS/src/memory/block_allocator.c",
+  "output": "CMakeFiles/OECS.dir/src/memory/block_allocator.c.o"
+},
+{
+  "directory": "/home/default/Projects/OECS/build",
+  "command": "/usr/bin/cc -DOECS_EXPORTS -I/home/default/Projects/OECS/include -ggdb -fPIC -Winvalid-pch -include /home/default/Projects/OECS/build/CMakeFiles/OECS.dir/cmake_pch.h -o CMakeFiles/OECS.dir/src/memory/linear_allocator.c.o -c /home/default/Projects/OECS/src/memory/linear_allocator.c",
+  "file": "/home/default/Projects/OECS/src/memory/linear_allocator.c",
+  "output": "CMakeFiles/OECS.dir/src/memory/linear_allocator.c.o"
+},
+{
+  "directory": "/home/default/Projects/OECS/build",
+  "command": "/usr/bin/cc -DOECS_EXPORTS -I/home/default/Projects/OECS/include -ggdb -fPIC -Winvalid-pch -include /home/default/Projects/OECS/build/CMakeFiles/OECS.dir/cmake_pch.h -o CMakeFiles/OECS.dir/src/types/darray/darray_charptr.c.o -c /home/default/Projects/OECS/src/types/darray/darray_charptr.c",
+  "file": "/home/default/Projects/OECS/src/types/darray/darray_charptr.c",
+  "output": "CMakeFiles/OECS.dir/src/types/darray/darray_charptr.c.o"
+},
+{
+  "directory": "/home/default/Projects/OECS/build",
+  "command": "/usr/bin/cc -DOECS_EXPORTS -I/home/default/Projects/OECS/include -ggdb -fPIC -Winvalid-pch -include /home/default/Projects/OECS/build/CMakeFiles/OECS.dir/cmake_pch.h -o CMakeFiles/OECS.dir/src/types/ecs_declarations.c.o -c /home/default/Projects/OECS/src/types/ecs_declarations.c",
+  "file": "/home/default/Projects/OECS/src/types/ecs_declarations.c",
+  "output": "CMakeFiles/OECS.dir/src/types/ecs_declarations.c.o"
+},
+{
+  "directory": "/home/default/Projects/OECS/build",
+  "command": "/usr/bin/cc  -I/home/default/Projects/OECS/include -ggdb -o CMakeFiles/example_entity.dir/examples/entities.c.o -c /home/default/Projects/OECS/examples/entities.c",
+  "file": "/home/default/Projects/OECS/examples/entities.c",
+  "output": "CMakeFiles/example_entity.dir/examples/entities.c.o"
+},
+{
+  "directory": "/home/default/Projects/OECS/build",
+  "command": "/usr/bin/cc  -I/home/default/Projects/OECS/include -ggdb -o CMakeFiles/example_query.dir/examples/query.c.o -c /home/default/Projects/OECS/examples/query.c",
+  "file": "/home/default/Projects/OECS/examples/query.c",
+  "output": "CMakeFiles/example_query.dir/examples/query.c.o"
+},
+{
+  "directory": "/home/default/Projects/OECS/build",
+  "command": "/usr/bin/cc  -I/home/default/Projects/OECS/include -ggdb -o CMakeFiles/example_systems.dir/examples/systems.c.o -c /home/default/Projects/OECS/examples/systems.c",
+  "file": "/home/default/Projects/OECS/examples/systems.c",
+  "output": "CMakeFiles/example_systems.dir/examples/systems.c.o"
+}
+]
